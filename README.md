@@ -15,7 +15,7 @@
 <code><a href="https://github.com/pallets/flask" target="_blank"><img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></a></code>
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit2web&show_icons=true&line_height=30)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit2web&show_icons=true&line_height=30&theme=tokyonight)
 
 🌱 Learning all about **Open Source**
 
