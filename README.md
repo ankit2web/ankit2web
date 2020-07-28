@@ -19,7 +19,10 @@
 
 🌱 Learning all about **Open Source**
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankit2web.ankit2web)
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/ankit2web/count.svg" />
+</p>
 
 <p align="center">
   MADE WITH :heart: &nbsp;USING <a href="https://github.com/github/markup">GITHUB MARKDOWN</a>
