@@ -10,10 +10,10 @@
 
 **👨🏻‍💻 Currently working on:** 
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></code>
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"></a></code>
-<code><a href="https://github.com/pallets/flask" target="_blank"><img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></a></code>
+<code><a href="https://robotframework.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.svg"></a></code>
+<code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://selenium.dev/images/selenium_logo_square_green.png"></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></a></code>
+<code><a href="https://jmeter.apache.org/" target="_blank"><img height="50" src="https://svn.apache.org/repos/asf/jmeter/trunk/docs/images/jmeter_square.svg"></a></code>
 
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit2web&show_icons=true&line_height=30&theme=tokyonight)
 
