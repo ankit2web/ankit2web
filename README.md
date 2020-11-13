@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankitpandey.ap273@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ankit2web@outlook.com)
 
-**💼 Currently working as:** Software Engineer at <a href="https://www.indexnine.com/" target="_blank"><b>Indexnine Technologies</b></a>
+**💼 Currently working as:** QA (Automation) Engineer at <a href="https://www.indexnine.com/" target="_blank"><b>Indexnine Technologies</b></a>
 
 **👨🏻‍💻 Currently working on:** 
 
