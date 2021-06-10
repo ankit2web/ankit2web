@@ -15,7 +15,7 @@
 <code><a href="https://www.qt.io/qt-for-python" target="_blank"><img height="50" src="https://qt-wiki-uploads.s3.amazonaws.com/images/3/33/Py-128.png"></a></code>
 <code><a href="https://www.makotemplates.org/" target="_blank"><img height="50" src="https://www.makotemplates.org/images/makoLogo.png"></a></code>
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit2web&show_icons=true&line_height=30&theme=tokyonight)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit2web&count_private=true&show_icons=true&line_height=30&theme=tokyonight)
 
 🌱 Learning all about **Open Source**
 
