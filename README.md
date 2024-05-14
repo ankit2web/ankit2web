@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ankit2web.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ankit2web?tab=followers)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankitpandey.ap273@gmail.com)
 
-**💼 Currently working as:** Site Reliability Engineer (DevOps) at <a href="https://www.indexnine.com/" target="_blank"><b>Indexnine Technologies</b></a>
+**💼 Previously working as:** Site Reliability Engineer (DevOps) at <a href="https://www.indexnine.com/" target="_blank"><b>Indexnine Technologies</b></a>
 
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit2web&count_private=true&show_icons=true&line_height=30&theme=tokyonight)
 
