@@ -10,6 +10,12 @@
 
 🌱 Learning all about **Open Source**
 
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-indexnine&show_icons=true&locale=en&layout=compact" alt="ankit-indexnine" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-indexnine&show_icons=true&locale=en" alt="ankit-indexnine" /></p>-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankit-indexnine&date_format=j%20M%5B%20Y%5D&background=45%2C8AEBE1%2CEBABE8&currStreakNum=7B63EB&stroke=EB4E47&border=EBAFE1&ring=5C6AEB&dates=161616)](https://git.io/streak-stats)
+
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ankit2web/count.svg" />
