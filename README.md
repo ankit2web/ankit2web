@@ -20,7 +20,7 @@
 
 👁️ Visitor Count
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/ankit-indexnine/count.svg" />
+  <img src="https://profile-counter.glitch.me/ankit2web/count.svg" />
 </p>
 
 <p align="left">
