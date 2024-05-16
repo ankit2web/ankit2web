@@ -2,7 +2,7 @@
 
 [![Linkedin: iankitpandey](https://img.shields.io/badge/-iankitpandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iankitpandey/)](https://www.linkedin.com/in/iankitpandey/)
 [![GitHub followers](https://img.shields.io/github/followers/ankit2web.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ankit2web?tab=followers)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=social)](mailto:ankitpandey.ap273@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=social)](mailto:ankit2web@outlook.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badg&logo=X&logoColor=white&label=unkeeith)](https://x.com/unkeeith)
 <!--![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)-->
 
